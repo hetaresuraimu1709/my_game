@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+Log.txt
 .vs/
 Debug/
 MyDxLibGame3D/MyDxLibGame3D.vcxproj.user
